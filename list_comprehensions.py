@@ -10,7 +10,7 @@ print(squares)
 
 #Personal lab 4-3:
 
-numbers = list(range(1, 21)) #using range functionto create the list 1-20
+numbers = list(range(1, 21)) #using range function to create the list 1-20
 print(numbers)
 
 for number in numbers: #for loop in order to count from 1-20
