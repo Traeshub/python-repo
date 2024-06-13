@@ -37,6 +37,7 @@ favorite_fruits = ['mango', 'pineapple', 'strawberry']
 
 if 'mango' in favorite_fruits:
 	print("Mangoes are good")
+	print(f"\n{favorite_fruits[0].title()} is my favorite fruit of them all!")
 if 'pineapple' in favorite_fruits:
 	print("\nPineapples are good")
 if 'strawberry' in favorite_fruits:
