@@ -173,4 +173,4 @@ while sandwich_orders:
     current_sandwich = sandwich_orders.pop()
     finished_sanwiches.append(current_sandwich)
 
-print(finished_sanwiches) #print to show that the list moved from sandqich_orders to finished_sanwiches
+print(finished_sanwiches) #print to show that the list moved from sandwich_orders to finished_sanwiches
