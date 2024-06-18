@@ -143,7 +143,7 @@ print(pets)
 # Filling a Dictionary with User Input
 
 responses = {}
-polling_active = True #setting a flag to notify that the progrma is active
+polling_active = True #setting a flag to notify that the program is active
 
 while polling_active:
     name = input("\nWhat is your name?")
