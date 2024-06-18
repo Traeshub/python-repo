@@ -151,7 +151,7 @@ while polling_active:
 
     responses[name] = response #storing the response in a dictionary
 
-    repeat = input("Would you like another person to respond? (yes/no)")    #repeatint the input for additional data
+    repeat = input("Would you like another person to respond? (yes/no)")    #repeating the input for additional data
     if repeat == 'no':
         polling_active = False
 
